@@ -267,13 +267,19 @@ body {
   color: #666;
 }
 
-.auth-link {
+.btn-auth-link {
   color: #007bff;
+  margin: 0;
+  padding: 0;
+  border: none;
+  font-size: 1rem;
+  cursor: pointer;
+  background-color: #ffffff;
   text-decoration: none;
   font-weight: 500;
 }
 
-.auth-link:hover {
+.btn-auth-link:hover {
   text-decoration: underline;
 }
 
